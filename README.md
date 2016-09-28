@@ -29,3 +29,13 @@ localhost
 ## テスト 2
 
  --sudo オプション外しても成功
+
+## テスト 3
+ 
+ --connection=localオプションを外しても成功
+
+## テスト 4
+
+inventoryファイルをなくしてみる
+
+
