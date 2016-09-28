@@ -36,6 +36,8 @@ localhost
 
 ## テスト 4
 
-inventoryファイルをなくしてみる
+inventoryファイルをなくしてみても成功
 
+## テスト 5
 
+copy タスクで /usr/bin配下にコピーしてみる
