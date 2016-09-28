@@ -25,3 +25,7 @@ localhost
 - hosts: localhost
   connection: local
 ```
+
+## テスト 2
+
+ --sudo オプション外しても成功

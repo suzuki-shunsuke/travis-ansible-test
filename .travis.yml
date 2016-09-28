@@ -19,7 +19,7 @@ before_script:
 - echo $USER
 
 script:
-- ansible-playbook -i inventory test.yml --connection=local
+- ansible-playbook -i inventory test.yml
 
 notifications:
   webhooks: https://galaxy.ansible.com/api/v1/notifications/
