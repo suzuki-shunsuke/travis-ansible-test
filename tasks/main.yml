@@ -1,0 +1,6 @@
+---
+# sudo出来るか否か
+# /usr/bin配下にファイルを生成できるか
+- name: test
+  command: touch /usr/bin/foo
+  become: yes
