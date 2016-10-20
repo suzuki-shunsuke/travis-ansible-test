@@ -40,4 +40,6 @@ inventoryファイルをなくしてみても成功
 
 ## テスト 5
 
-copy タスクで /usr/bin配下にコピーしてみる
+travis.ci と ローカルでのplaybookを統一出来ないか模索。
+まずは hostsを localhostからdefaultにしてみる
+
