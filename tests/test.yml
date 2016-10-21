@@ -3,4 +3,4 @@
 #   connection: local
 - hosts: default
   roles:
-  - role: travis-ansible-test
+  - travis-ansible-test
